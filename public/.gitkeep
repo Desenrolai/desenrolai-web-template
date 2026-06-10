@@ -1,0 +1,1 @@
+# Mantem public/ no git — o Dockerfile (Next standalone) faz COPY /app/public.
